@@ -1,6 +1,7 @@
 # automated_testing_-19.4.-
 Тестовая база для REST API сайта PetFriends(https://petfriends1.herokuapp.com/all_pets).
 Содержит:
+
 api библиотеку к веб приложению Pet Friends. 
 файл api.py: (https://github.com/vladislava1909/automated_testing_-19.4.-#:~:text=11%20minutes%20ago-,api.py,-QAP)
 Набор тестовых данных для проведения автотестов.
